@@ -18,7 +18,7 @@ const orderSchema= mongoose.Schema({
         isDeleted: {type:Boolean, default: false}
     },
 
-        {timestamp:true}
+    {timestamp:true}
        
       
 
